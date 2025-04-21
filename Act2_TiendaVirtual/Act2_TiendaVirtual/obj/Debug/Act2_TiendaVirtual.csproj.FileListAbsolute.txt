@@ -1,0 +1,7 @@
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Practicas\Act2_TiendaVirtual\Act2_TiendaVirtual\bin\Debug\Act2_TiendaVirtual.exe.config
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Practicas\Act2_TiendaVirtual\Act2_TiendaVirtual\bin\Debug\Act2_TiendaVirtual.exe
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Practicas\Act2_TiendaVirtual\Act2_TiendaVirtual\bin\Debug\Act2_TiendaVirtual.pdb
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Practicas\Act2_TiendaVirtual\Act2_TiendaVirtual\obj\Debug\Act2_TiendaVirtual.csproj.AssemblyReference.cache
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Practicas\Act2_TiendaVirtual\Act2_TiendaVirtual\obj\Debug\Act2_TiendaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Practicas\Act2_TiendaVirtual\Act2_TiendaVirtual\obj\Debug\Act2_TiendaVirtual.exe
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Practicas\Act2_TiendaVirtual\Act2_TiendaVirtual\obj\Debug\Act2_TiendaVirtual.pdb
